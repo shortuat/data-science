@@ -29,9 +29,7 @@ Integrar la analítica de datos y el aprendizaje automático en procesos de **ef
 - **test** → pruebas automatizadas para validar el funcionamiento del código
 - **README.md** → descripción general del sprint: objetivo, estructura, instalación y uso.
 - **requirements.txt** → dependencias y entorno de ejecución  
-- **.gitignore** → Archivos y carpetas que deben excluirse del control de versiones.
-
-S## 📁 Estructura del proyecto
+- **.gitignore** → Archivos y carpetas que deben excluirse del control de versiones
 
 ```bash
 Sprint_X_ProjectName/
@@ -73,8 +71,8 @@ Sprint_X_ProjectName/
 │
 ├── README.md                               # Descripción general del sprint: objetivo, estructura y uso
 ├── requirements.txt                        # (Opcional) Dependencias de Python necesarias para ejecutar el sprint
-└── .gitignore                              # (Opcional) Archivos o carpetas excluidas del control de versiones
-
+└── .gitignore                              # (Opcional) Archivos o carpetas excluidas del control de versiones 
+```
 
 �� *Desarrollado por Santiago Hortua*  
 📍 *Soluciones de ciencia de datos aplicadas a Sistemas Inteligentes de Transporte*
